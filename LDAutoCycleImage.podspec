@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LDAutoCycleImage'
   s.version          = '0.0.1'
-  s.summary          = 'A short description of LDAutoCycleImage.'
+  s.summary          = ' LDAutoCycleImage.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = "这是一个测试的案例"
+  s.description      = "A short description of LDAutoCycleImage. 这是一个测试的案例"
 
   s.homepage         = 'https://github.com/littledou2013/testA'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
