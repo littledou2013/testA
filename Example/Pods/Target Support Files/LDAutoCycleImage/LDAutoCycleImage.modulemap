@@ -1,0 +1,6 @@
+framework module LDAutoCycleImage {
+  umbrella header "LDAutoCycleImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

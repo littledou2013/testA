@@ -1,0 +1,16 @@
+PODS:
+  - LDAutoCycleImage (0.1.0)
+
+DEPENDENCIES:
+  - LDAutoCycleImage (from `../`)
+
+EXTERNAL SOURCES:
+  LDAutoCycleImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LDAutoCycleImage: 78fdf64b87bf3e511955fb8908eceb7d74550416
+
+PODFILE CHECKSUM: 15f0242279808564c6297c162a14e82423689ef8
+
+COCOAPODS: 1.5.0
