@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LDAutoCycleImage_Example' do
+  pod 'LDAutoCycleImage', :path => '../'
+
+  target 'LDAutoCycleImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
